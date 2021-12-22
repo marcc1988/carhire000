@@ -1,0 +1,34 @@
+.logo img {
+  width: 80px;
+  height: 80px;
+}
+
+h1,
+h2 {
+  position: relative;
+  top: 0px;
+  padding: 30px;
+  left: 750px;
+}
+
+.card-img-top {
+  width: 100%;
+  height: 30vw;
+  padding-top: 20px;
+  object-fit: scale-down;
+}
+
+#enquiries {
+  background-color: wheat;
+  padding: 20px;
+}
+
+#cars {
+  padding: 20px;
+}
+
+.footer-basic {
+  padding: 20px;
+  display: block;
+  width: 100%;
+}
